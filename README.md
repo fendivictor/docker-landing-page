@@ -16,6 +16,7 @@ I assumed that you have installed docker and docker-compose in your pc.
     ```sh
    git clone https://github.com/fendivictor/docker-landing-page.git
    ```
-2. Lastly, run ```docker-compose up``` and Compose will start and run entire app.
+2. run ```cd docker-landing-page```
+3. Lastly, run ```docker-compose up``` and Compose will start and run entire app.
 
 ### Thank You
