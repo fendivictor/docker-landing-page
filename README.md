@@ -17,6 +17,6 @@ I assumed that you have installed docker and docker-compose in your pc.
    git clone https://github.com/fendivictor/docker-landing-page.git
    ```
 2. run ```cd docker-landing-page```
-3. Lastly, run ```docker-compose up``` and Compose will start and run ```localhost:8004```.
+3. Lastly, run ```docker-compose up``` and Compose will start and run ```localhost:8004``` in your browser.
 
 ### Thank You
